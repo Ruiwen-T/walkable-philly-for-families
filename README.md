@@ -1,4 +1,4 @@
-# philly-walkable-for-families
+# walkable-philly-for-families
 Megan Zhang and Raven (Ruiwen) Tang
 
 See `user-manual.pdf` for a step-by-step rundown on how to use our project :)
